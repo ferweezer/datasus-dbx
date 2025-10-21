@@ -1,0 +1,5 @@
+.env
+*.parquet
+*.dbc
+*.dbf
+data/
